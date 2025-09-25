@@ -1,1 +1,1 @@
-# python_labs1
+#ЛР1
