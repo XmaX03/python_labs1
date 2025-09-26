@@ -15,7 +15,7 @@ print('Привет,'+ str(a) + '! Через год тебе будет'+ str(b
 ```python
 a = float(input("a: ").replace(',', '.'))
 b = float(input("b: ").replace(',', '.'))
-print(f"sum={a+b:.2f}; avg={(a+b)/2:.2f}")
+print('sum='+str(a+b)+'; avg='+str((a+b)/2))
 ```
 ![Code](./images/lab01/02_sum_avg.png)
 
