@@ -1,0 +1,6 @@
+fio_input = input("ФИО: ")
+fio_clean = ' '.join(fio_input.split())
+words = fio_clean.split()
+initials = ''.join([word[0].upper() for word in words])
+print(f"Инициалы: {initials}.")
+print(f"Длина (символов): {len(fio_clean)}")
