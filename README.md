@@ -213,4 +213,3 @@ print(format_record(("  сидорова  анна   сергеевна ", "ABB-
 print(format_record(("Иванов Иван Иванович","BIVT-25", 4.5))) 
 ```
 ![code](./images/lab02/C_info_format_record.png)
-
